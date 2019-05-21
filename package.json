@@ -1,0 +1,13 @@
+{
+  "name": "neo4j-recreate-indexes",
+  "version": "1.0.0",
+  "description": "queries neo4j, drops and recreated indexes",
+  "main": "index.js",
+  "repository": "git@github.com:doanythingfordethklok/neo4j-recreate-indexes.git",
+  "author": "Tommy Messbauer <totally.bro@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "neo4j-driver": "^1.7.4",
+    "yargs": "^13.2.4"
+  }
+}
